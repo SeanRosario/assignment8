@@ -1,0 +1,4 @@
+The mean for position 1 is 0.0138 and it Std. deviation is 0.999904775466 
+The mean for position 10 is 0.0402 and it Std. deviation is 0.313687679069 
+The mean for position 100 is 0.040688 and it Std. deviation is 0.101021614796 
+The mean for position 100 is 0.04096 and it Std. deviation is 0.100447590315 
